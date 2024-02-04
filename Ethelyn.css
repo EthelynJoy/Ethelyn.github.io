@@ -1,0 +1,38 @@
+body{
+  font-family: Arial;
+  background: #001e4a;
+  color: white;
+  
+}
+.welcome{
+  color: white;
+  font-size: 50px;
+  
+}
+.lo{
+    font-size: 20px;
+}
+.top span{
+  font-size:30;
+  color: white;
+}
+b{color:red;}
+img{
+  width: 100%;
+}
+ul li{
+  display: inline-block;
+}
+ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+  transition: 0.6s ease;
+  font-size: 20px;
+}
+
+ul li a:hover{
+  background-color: #f67280;
+  color: #000;
+}

@@ -1,0 +1,14 @@
+body{
+  font-family: Arial;
+  background: #001e4a;
+  color: white;
+}
+.Hi{
+  color: red;
+  font-size: 60px;
+  font-family: Times New Roman;
+}
+.hello{
+    font-size: 20px;
+    font-family: Times New Roman;
+}
